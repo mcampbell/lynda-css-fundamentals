@@ -38,3 +38,6 @@ Lynda.com's CSS Fundamentals Course
 * validator.w3.org
 * csslint.net
 
+# CSS page layout
+## http://www.lynda.com/CSS-tutorials/Box-model-review/86003/97790-4.html
+
