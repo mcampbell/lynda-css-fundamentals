@@ -39,5 +39,6 @@ Lynda.com's CSS Fundamentals Course
 * csslint.net
 
 # CSS page layout
-## http://www.lynda.com/CSS-tutorials/Box-model-review/86003/97790-4.html
+
+* http://www.lynda.com/CSS-tutorials/Box-model-review/86003/97790-4.html
 
