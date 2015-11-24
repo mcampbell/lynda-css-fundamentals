@@ -42,3 +42,10 @@ Lynda.com's CSS Fundamentals Course
 
 * http://www.lynda.com/CSS-tutorials/Box-model-review/86003/97790-4.html
 
+# Site Design
+
+1. discovery.  Talking to clients, getting expecations (how site works, etc),
+   gathering content. 
+1. wireframes and prototypes.  Simple sketches, maybe some fully realized pages
+   if possible/reasonable.  
+1. color and type treatments.
