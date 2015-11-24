@@ -45,7 +45,14 @@ Lynda.com's CSS Fundamentals Course
 # Site Design
 
 1. discovery.  Talking to clients, getting expecations (how site works, etc),
-   gathering content. 
+gathering content. 
 1. wireframes and prototypes.  Simple sketches, maybe some fully realized pages
-   if possible/reasonable.  
+if possible/reasonable.
 1. color and type treatments.
+1. site mockups; transitions and more detail than wireframes
+
+## Tools
+* typetester.org - font comparisions
+* kuler.adobe.com - color pallets
+
+   
